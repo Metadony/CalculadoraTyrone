@@ -19,7 +19,7 @@ Olá, para executar o script siga os seguintes passos:
 
        CALCULADORA EM PYTHON
 
-Essa é uma calculadora com códigos simples usando apenas while e if para criar respostas e loopings.
+Essa é uma calculadora com códigos simples usando apenas while e if/elif/else para criar respostas e loopings.
 
 Ela é capaz de realizar somente as quatro operações básicas soma, subtração, multiplicação e divisão.
 
