@@ -19,6 +19,8 @@ Olá, para executar o script siga os seguintes passos:
 
        CALCULADORA EM PYTHON
 
-Essa é uma calculadora simples que pode realizar somente as quatro operações básicas soma, subtração, multiplicação e divisão.
+Essa é uma calculadora com códigos simples usando apenas while e if para criar respostas e loopings.
 
-Ela também contém um sistema de looping que permite que você continue fazendo contas sem parar enquanto o usuário não encerrar a sessão. 
+Ela é capaz de realizar somente as quatro operações básicas soma, subtração, multiplicação e divisão.
+
+E também como disse previamente, contém um sistema de looping que permite que o usuário continue fazendo contas sem parar enquanto o mesmo não encerrar a sessão. 
